@@ -1,7 +1,7 @@
 import 'dart:developer' as dev;
 import 'dart:math';
 
-import 'package:pyramid_funnel_levels/models/level_tree/level_tree.dart';
+import 'package:levels_dart_pyramid_funnels/models/level_tree/level_tree.dart';
 
 /// Returns the number of implemented levels
 int levelsCount() {

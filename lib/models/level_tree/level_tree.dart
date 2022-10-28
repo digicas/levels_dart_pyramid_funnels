@@ -2,7 +2,7 @@
 
 import 'dart:math';
 
-import 'package:pyramid_funnel_levels/models/level/level.dart';
+import 'package:levels_dart_pyramid_funnels/models/level/level.dart';
 
 class LevelTree {
   static Level? getLevelByLevelIndex(int levelIndex) {

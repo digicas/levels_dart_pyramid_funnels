@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:pyramid_funnel_levels/models/pyramid_mask.dart';
+import 'package:levels_dart_pyramid_funnels/models/pyramid_mask.dart';
 
 class Level {
 //  List<int> _task; // task has applied mask - in fact not used - only solution is used
